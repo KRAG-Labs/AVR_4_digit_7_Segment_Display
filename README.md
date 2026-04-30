@@ -1,4 +1,4 @@
-# AVR LED Blink Project
+# AVR - 4 digit, 7-Segment Display
 
 ---
 
@@ -51,7 +51,9 @@ This project demonstrates how to build and program a simple LED blink applicatio
 
 - `src/`: Contains the C source code (`main.c`).
 - `build/`: Build artifacts for the C version.
+- `tests/`: Logical tests.
 - `LEARN.md`: A comprehensive guide for learning AVR programming.
+- `ssd.sim1`: SimulIDE simulation.
 
 ## How to Build
 
