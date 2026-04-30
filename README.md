@@ -52,7 +52,6 @@ This project demonstrates how to build and program a simple LED blink applicatio
 - `src/`: Contains the C source code (`main.c`).
 - `build/`: Build artifacts for the C version.
 - `tests/`: Logical tests.
-- `LEARN.md`: A comprehensive guide for learning AVR programming.
 - `ssd.sim1`: SimulIDE simulation.
 
 ## How to Build
@@ -83,7 +82,3 @@ make clean
 - **`.map`**: Memory map (Shows exactly how much memory each section uses).
 - **`.elf`**: Full executable with debugging information.
 - **`.hex`**: Raw machine code for flashing.
-
----
-
-For a deep dive into AVR concepts, check out [LEARN.md](./LEARN.md).
