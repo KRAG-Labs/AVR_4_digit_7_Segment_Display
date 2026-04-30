@@ -1,0 +1,12 @@
+build/
+.cache/
+compile_commands.json
+.dep/
+*.o
+*.hex
+*.elf
+*.eep
+*.lss
+*.sym
+*.map
+*.lst
